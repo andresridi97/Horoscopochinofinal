@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Horoscope</string>
+    <string name="txt_nombre">Enter name</string>
+    <string name="txt_fecha">Enter date of birth</string>
+    <string name="txt_cuenta">Enter No. 10 digit account</string>
+    <string name="txt_correo">Enter Email</string>
+    <string name="tv5">Enter date of birth in numerical format</string>
+    <string name="dia">day number</string>
+    <string name="mes">month number</string>
+    <string name="año">year number</string>
+    <string name="button1">Next</string>
+    <string name="tv1">your age is:</string>
+    <string name="tv2">age</string>
+    <string name="tv3">Your horoscope is:</string>
+    <string name="tv4">Horoscope</string>
+    <string name="button2">calculate</string>
+    <string name="button3">Return</string>
+    <string name="nombre">You must enter a name</string>
+    <string name="ncuen">You must enter an account number</string>
+    <string name="ncuen10">You must enter an account number of 10 digits</string>
+    <string name="ingresae">You must enter an Email</string>
+    <string name="ndia">You must enter a day number</string>
+    <string name="ndiav">You must enter a valid day number</string>
+    <string name="nmes">You must enter a month number</string>
+    <string name="nmesv">You must enter a valid month number</string>
+    <string name="nano">You must enter a year number</string>
+    <string name="nanov">You must enter a valid year number</string>
+    <string name="rat">rat</string>
+    <string name="buf">buffalo</string>
+    <string name="tig">tiger</string>
+    <string name="con">rabbit</string>
+    <string name="dra">dragon</string>
+    <string name="serp">snake</string>
+    <string name="cab">horse</string>
+    <string name="cabra">goat</string>
+    <string name="mon">monkey</string>
+    <string name="gal">rooster</string>
+    <string name="pe">dog</string>
+    <string name="cer">pork</string>
+</resources>
